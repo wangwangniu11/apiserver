@@ -1,2 +1,2 @@
-From gcr.io/distroless/nodejs
+FROM gcr.io/distroless/nodejs
 MAINTAINER zhanglk
